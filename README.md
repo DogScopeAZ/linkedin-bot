@@ -1,6 +1,6 @@
-# Easy Apply Jobs Bot 🤖
+# Linkedin Bot 
 
-## Installation 🔌
+## Installation
 
 - clone the repo
 - Make sure Python and pip is installed
@@ -10,7 +10,7 @@
 - Run `python3 linkedin.py`
 - Check Applied Jobs DATA .txt file is generate under /data folder
 
-## Tests 🔦
+## Tests
 
 There is a specific test folder for you to test the dependencies, the bot and if everything is set up correctly. To do that I recommend,
 running below codes,
@@ -20,7 +20,7 @@ running below codes,
 3. Run `python3 linkedinTest.py` this will try to log in automatically to your Linkedin account based on the path you defined in the .env file. If its giving an error make sure the path exists and logged in manually to your Linkedin account once.
 
 
-## How to Set up 🛠
+## How to Set up
 
 This tutorial briefly explains how to set up LinkedIn Easy Apply jobs bot. With few modifications you can make your own bot or try my other bots for other platforms.
 
